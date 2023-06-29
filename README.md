@@ -1,1 +1,1 @@
-# myfirstgit
+# myFirstGIT
